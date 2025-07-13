@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+<<<<<<< HEAD
       <module fileurl="file://$PROJECT_DIR$/calculadoraedadyetaria.iml" filepath="$PROJECT_DIR$/calculadoraedadyetaria.iml" />
+=======
+      <module fileurl="file://$PROJECT_DIR$/conversor.iml" filepath="$PROJECT_DIR$/conversor.iml" />
+>>>>>>> d7c07ffec5b4c44d8cffa9ccf006134d53cd59d9
     </modules>
   </component>
 </project>
